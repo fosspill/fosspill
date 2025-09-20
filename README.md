@@ -1,4 +1,4 @@
-# Hey there! I'm deadbeet ✨
+# Hey there! 
 I'm passionate about making gaming tools that are **accessible**, **cross-platform**, and **open source**. Every single project I work on is designed to give players more freedom to enjoy their games exactly how they want.
 
 ### Current Projects
